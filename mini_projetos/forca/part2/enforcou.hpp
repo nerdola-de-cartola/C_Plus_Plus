@@ -1,0 +1,1 @@
+bool enforcou(std::vector<char> &erros);

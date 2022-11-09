@@ -1,0 +1,1 @@
+void imprimeAcertos(std::string &palavra_secreta, std::map<char, bool> &acertos);

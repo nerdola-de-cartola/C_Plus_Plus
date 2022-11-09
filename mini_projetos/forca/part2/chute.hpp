@@ -1,0 +1,1 @@
+void chute(std::map<char, bool> &acertos, std::vector<char> &erros);

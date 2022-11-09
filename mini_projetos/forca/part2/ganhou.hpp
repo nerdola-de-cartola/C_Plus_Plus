@@ -1,0 +1,1 @@
+bool ganhou(std::string &palavra_secreta, std::map<char, bool> &acertos);
